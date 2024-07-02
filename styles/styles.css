@@ -58,8 +58,7 @@ a {
   line-height: 24px;
   color: #595959;
   width: 78%;
-}
-/* ширина менше, бо висячi лiтери не гaрно виглядають */
+} 
 
 /* project  */
 .projects {
@@ -239,12 +238,10 @@ body > div > div > div:nth-child(4) > h4 {
   html,
   body {
     width: 100%;
-    /* word-wrap: break-word; Дозволяє тексту переноситися на новий рядок */
-  }
+    }
 
   * {
-    box-sizing: border-box; /* Враховує padding і border у значеннях width та height */
-
+    box-sizing: border-box;  
     height: auto;
   }
   .main {
