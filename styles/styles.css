@@ -177,7 +177,8 @@ a {
 .tech,
 .soft {
   margin-left: 40px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
+  padding-right: 10px;
 }
 
 .sidebar-title {
